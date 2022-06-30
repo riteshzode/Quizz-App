@@ -12,5 +12,4 @@ for question in question_data:
 
 
 quiz = QuizBrain(question_bank)
-
 quiz_ui = Quiz_UI(quiz)
